@@ -1,27 +1,3 @@
-# Low Level Informatic
-
-## Description
-This repos contain some of my try in logic schema. 
-Learn and explore this fundamental aspect of informatics realy help me for understand and optimize some of algo and problem.
-
-8 bits ALU : 
-![ALU](/Models/ALU/alu.jpg)
-OP Code map for alu :
-
-0000 NO
-0001 HALT
-0010 ADD 
-0011 SUB
-0100 MUL
-0101 DIV
-0110 AND
-0111 OR
-1000 XOR
-
-
-Or an old version of my first try CPU : 
-![oldCpu](/Models/Olds/CPUV1.png)
-
 Assembly instruction :
 
 000 add
